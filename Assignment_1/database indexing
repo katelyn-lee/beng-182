@@ -1,5 +1,0 @@
-#Database index creation. Read the data file and create two index files.
-  first file data_seq.txt is a concatenation of all sequences in the file, with @ in between each sequence
-#(b) The second file data.in contains a line with two terms for each sequence. The first term is the ‘gi number’ for the sequence, and the second term is the o↵set in “data.seq” where the sequence starts (14pt).
-
-change command line arg to include given file rather than only datafile.txt
